@@ -3,13 +3,11 @@ var var1 = document.getElementById("first");
 var var2 = document.getElementById("second");
 var var3 = document.getElementById("third");
 
-// strike와 ball 변수 생성
-
-var number = [];
 
 // 난수생성 function
+var number = [];
+
 function getRandom() {
-    
     number[0] = Math.floor(Math.random() * 9) + 1;
     do {
         number[1] = Math.floor(Math.random() * 9) + 1;
@@ -39,7 +37,6 @@ function remove() {
     document.getElementById("first").innerText = null;
     document.getElementById("second").innerText = null;
     document.getElementById("third").innerText = null;
-
 }
 
 // 게임 플레이 function
@@ -66,7 +63,6 @@ function play() {
 
     document.getElementById("strike_cnt").innerText = strike;
     document.getElementById("ball_cnt").innerText = ball;
-    
 }
 
 
