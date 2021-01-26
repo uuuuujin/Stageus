@@ -1,3 +1,4 @@
+/* input number */
 .board {
     width: 450px;
     height: 630px;
@@ -30,6 +31,8 @@
     outline: none;
 }
 
+
+/* keypad */
 table {
     margin: 25px auto;
 }
@@ -40,6 +43,7 @@ table {
     font-size: 20px;
     color: white;
     background: #999999;
+    border-radius: 10%;
     border: none;
 }
 
