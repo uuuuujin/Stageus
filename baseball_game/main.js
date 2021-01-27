@@ -27,6 +27,7 @@ function getRandom() {
     document.getElementById("strike_cnt").innerText = 0;
     document.getElementById("ball_cnt").innerText = 0;
     document.getElementById("gameStart").innerText = "게임시작!"
+
 }
 
 // 지우기 function

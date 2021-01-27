@@ -60,7 +60,19 @@ table {
     width: 100px;
     height: 50px;
     font-size: 15px;
+    border: none;
+    border-radius: 5px;
 }
+
+.gameBtn:active {
+    outline: none;
+    background: #cccccc;
+}
+
+.gameBtn:focus{
+    outline: none;
+}
+
 
 /* Strike & Ball */
 .strike_ball {
