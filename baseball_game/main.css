@@ -6,12 +6,13 @@
     position: absolute;
     left: 50%;
     transform:translate(-50%,0);
+    margin-top: 30px;
 }
 
 .value {
     width: auto;
     height: auto;
-    margin: 20px 0 0 40px;
+    margin: 30px 0 0 40px;
     display: flex;
     /* background: red; */
 
@@ -59,7 +60,7 @@ table {
 .gameBtn {
     width: 100px;
     height: 50px;
-    font-size: 15px;
+    font-size: 20px;
     border: none;
     border-radius: 5px;
 }
@@ -99,6 +100,9 @@ table {
 
  /* game start! */
  #gameStart {
-     font-size: 40px;
-     margin: 20px 0 0 140px;
+     font-size: 25px;
+     /* margin: 20px 0 0 100px; */
+     margin: 30px 0;
+     text-align: center;
+     font-weight: bold;
  }
