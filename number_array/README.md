@@ -17,8 +17,8 @@
 
 2. 숫자를 직접 drag & drop해서 0부터 9까지 배열해야함. 
 
-![number_array](/image/게임중간.PNG)
+![number_array](./image/게임중간.PNG)
 
 3. 0부터 9까지 배열한 후 check버튼을 누르면 '정답입니다!'라는 문구와 함께 걸린시간을 알려줌.
 
-![number_array](/image/게임종료.PNG)
+![number_array](./image/게임종료.PNG)
