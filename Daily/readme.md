@@ -3,29 +3,37 @@
 ### 일정을 기록할 수 있는 프로그램 
 <br>
 
+**전체적인 흐름**
+
+<img src="./image/program_flow_chart.jpg" width="500">
+
+<br>
+<br>
+
 1. 로그인 페이지
 
-![loginpage](./image/login.PNG)
+<img src="./image/login.PNG" width="500">
 
+<br>
 <br>
 
 2. 회원가입 페이지
 
-![signuppage](./image/signup.PNG)
+<img src="./image/signup.PNG" width="500">  
 
+<br>
 <br>
 
 3. 메인 페이지
 
-![mainpage](./image/mainpage.PNG)
+<img src="./image/mainpage.PNG" width="500">
 
+<br>
 <br>
 
 4. 일정 추가 페이지
 
-![addpage](./image/addpage.PNG)
-
-<br>
+<img src="./image/addpage.PNG" width="500">
 
 
 ------------
