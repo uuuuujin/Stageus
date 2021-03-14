@@ -5,25 +5,25 @@
 
 1. 로그인 페이지
 
-![loginpage](/image/login.PNG)
+![loginpage](./image/login.PNG)
 
 <br>
 
 2. 회원가입 페이지
 
-![signuppage](/image/signup.PNG)
+![signuppage](./image/signup.PNG)
 
 <br>
 
 3. 메인 페이지
 
-![mainpage](/image/mainpage.PNG)
+![mainpage](./image/mainpage.PNG)
 
 <br>
 
 4. 일정 추가 페이지
 
-![addpage](/image/addpage.PNG)
+![addpage](./image/addpage.PNG)
 
 <br>
 
