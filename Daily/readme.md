@@ -5,35 +5,35 @@
 
 **전체적인 흐름**
 
-<img src="./image/program_flow_chart.jpg" width="500">
+<img src="./image/program_flow_chart.jpg" width="800">
 
 <br>
 <br>
 
 1. 로그인 페이지
 
-<img src="./image/login.PNG" width="500">
+<img src="./image/login.PNG" width="600">
 
 <br>
 <br>
 
 2. 회원가입 페이지
 
-<img src="./image/signup.PNG" width="500">  
+<img src="./image/signup.PNG" width="600">  
 
 <br>
 <br>
 
 3. 메인 페이지
 
-<img src="./image/mainpage.PNG" width="500">
+<img src="./image/mainpage.PNG" width="600">
 
 <br>
 <br>
 
 4. 일정 추가 페이지
 
-<img src="./image/addpage.PNG" width="500">
+<img src="./image/addpage.PNG" width="600">
 
 
 ------------
